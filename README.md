@@ -1,2 +1,2 @@
 # CryptoCurrency-React
-### See my project: https://reliable-babka-b33127.netlify.app/
+### See my project: https://cryptocurrencyvz.netlify.app/
